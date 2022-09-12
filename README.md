@@ -6,7 +6,10 @@ This is a basic console app created using .Net5 and requires an instance of Azur
 
 ![image](https://user-images.githubusercontent.com/28670731/189649496-6efaaf5c-a112-4cbd-8085-c952d1514b50.png)
 
-Note: You may need to use something like Audacity to export the WAV file as 16bit PCM if the translation fails
+**List of supported languages:**
+https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/language-support#neural-voices
+
+**Note:** You may need to use something like Audacity (https://www.audacityteam.org) to export the WAV file as 16bit PCM if the translation fails.
 
 ## TODO
 
@@ -16,4 +19,4 @@ This app could do with a bit of refactoring but I might look at creating a Blazo
 
 Output translated text and WAV files to a storage account.
 
-Look at integrating FFMPEG to ensure input file is in a usable format
+Look at integrating FFMPEG to ensure input file is in a usable format.
