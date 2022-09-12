@@ -4,7 +4,7 @@ Translate from multiple languages to English using Azure Speech Service. The app
 
 This is a basic console app created using .Net5 and requires an instance of Azure Speech Service. The required Key can then be used from your Speech Service instance to run the cognitive services translation.
 
-![image](https://user-images.githubusercontent.com/28670731/189647389-e47edfec-83db-4ca0-9d47-6956f2b6b39f.png)
+![image](https://user-images.githubusercontent.com/28670731/189649496-6efaaf5c-a112-4cbd-8085-c952d1514b50.png)
 
 Note: You may need to use something like Audacity to export the WAV file as 16bit PCM if the translation fails
 
